@@ -13,6 +13,6 @@ resource "aws_vpc" "from_terraform" {
   instance_tenancy = "default"
 
   tags = {
-    Name = "from_terraform_tag_name2"
+    Name = "from_terraform_tag_name3"
   }
 }
